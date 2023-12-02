@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#qr-reader {
+    width: 500px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#qr-reader-results {
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    background-image: url('./WhatsApp\ Image\ 2023-11-25\ at\ 13.25.15\ \(3\).jpeg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
